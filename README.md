@@ -16,18 +16,18 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/315aotirwzrbmcg4bhhta5b44cm4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315aotirwzrbmcg4bhhta5b44cm4&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-</div> -->
+</div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
