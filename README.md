@@ -24,13 +24,6 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div> -->
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/pacman-output/pacman-contribution-graph.svg">
@@ -49,6 +42,13 @@
   <a href="www.linkedin.com/in/laksamanaputrayulistiono" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LaksamanaPtra/LaksamanaPtra/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
